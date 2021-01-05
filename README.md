@@ -15,3 +15,9 @@ pip install -U ctrzoo
 ---
 ## TODO
 - add train logger
+
+
+
+---
+https://github.com/guokr/TorchCTR
+https://blog.csdn.net/jILRvRTrc/article/details/109301853

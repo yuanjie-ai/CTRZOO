@@ -1,10 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Project      : DeepTricks.
-# @File         : __init__.py
-# @Time         : 2019-09-10 14:36
+# @File         : Adversarialvalidation
+# @Time         : 2019-09-22 21:49
 # @Author       : yuanjie
 # @Email        : yuanjie@xiaomi.com
 # @Software     : PyCharm
 # @Description  : 
 
+
+"""
+对抗性验证
+https://www.kaggle.com/kevinbonnes/adversarial-validation
+"""
